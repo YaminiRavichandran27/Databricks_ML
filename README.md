@@ -34,9 +34,9 @@ matplotlib
 
 And install them with:
 
-```bash
+
 pip install -r requirements.txt
-```
+
 
 ## Installation
 
